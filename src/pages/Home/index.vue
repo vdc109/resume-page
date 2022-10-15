@@ -6,8 +6,6 @@
       h1.header VINH DO
       v-spacer
     .content
-      span For website version of resume: 
-      a(href="https://resume-page-site.netlify.app/", target="_blank") click here
       h3 CONTACT
       hr.sep-bar
       span Email: vinhdc109@gmail.com
