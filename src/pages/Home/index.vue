@@ -11,6 +11,9 @@
       span Email: vinhdc109@gmail.com
       v-spacer
       span Phone: (+84)855595596
+      v-spacer
+      span Facebook:
+        a(href="https://www.facebook.com/vinhdc109" target="_blank") https://www.facebook.com/vinhdc109
       h3.head2 EDUCATION
       hr.sep-bar
       span Hanoi Amsterdam Highschool for the gifted - Mathematics Honor Class
@@ -20,7 +23,7 @@
         b GPA:
       .GPA
         span Grade 9: 8.8
-        span Grade 10: 8.8
+        span Grade 10: 8.7
         span Grade 11: 9.4
       v-spacer
       a(href="https://drive.google.com/drive/folders/15h4-zQHYPwjYumk2LKY9i530U1EQ1R6B?usp=sharing" target="_blank")
@@ -29,19 +32,17 @@
         span IELTS: 8.0
         span SAT: 1520 (Mathematics: 800 | Critical Reading & Writing: 720)
       v-spacer
-      a(href="https://drive.google.com/drive/folders/175QrTSLQ0IfQVMFAnXItQvPX8pZ_IC4f?usp=sharing" target="_blank")
-        b Advanced placement:
-      .ap
-        span AP Calculus BC: 5 (Subscore Calculus AB: 5)
-        span AP Computer Science A: 5
-        span AP Statistics: 4
-      v-spacer
       span
         b Extracurricular coursework:
         ul
           li
             a(href="https://drive.google.com/file/d/1KHf9LxMEqrZvHJOPmWOQONsO7MzvS4rr/view?usp=sharing" target="_blank") Completed all of Harvard's CS50 2022 problemsets, labs, and final project
-
+          li
+            a(href="https://drive.google.com/drive/folders/175QrTSLQ0IfQVMFAnXItQvPX8pZ_IC4f?usp=sharing" target="_blank") Advanced placement:
+            .ap
+              span AP Calculus BC: 5 (Subscore Calculus AB: 5)
+              span AP Computer Science A: 5
+              span AP Statistics: 4
 
       h3.head2 HONORS AND MERITS
       hr.sep-bar
@@ -80,12 +81,6 @@
       h3.head3 RESEARCH PROJECTS
       hr.sep-bar
       ul
-        li 
-          a(href="https://drive.google.com/drive/folders/1FpwChxGljIMtqD07thaTlqGjjj4Bs-M4?usp=sharing" target="_blank")
-            b E-NNOVATE International Innovation Show 2022, Poland - Gold Medal
-          b.time1 June 2022
-          v-spacer
-          span Project: "Design of Distributed Academic-record System based on Blockchain"
         li
           a(href="https://drive.google.com/drive/folders/1UuoFw0nAvxm-CDYMU7cwCpVYc3ZSqyEQ?usp=sharing" target="_blank")
             b Global Link Online Innovation Expo 2022, Japan - 1st Place
@@ -98,9 +93,26 @@
           b.time1 July 2022
           v-spacer
           span Project: "Making Use of Speed Braker to Generate Electricity"
+        li 
+          a(href="https://drive.google.com/drive/folders/1FpwChxGljIMtqD07thaTlqGjjj4Bs-M4?usp=sharing" target="_blank")
+            b E-NNOVATE International Innovation Show 2022, Poland - Gold Medal
+          b.time1 June 2022
+          v-spacer
+          span Project: "Design of Distributed Academic-record System based on Blockchain"
+
+
+
       h3.head3 PERSONAL PROJECTS
       hr.sep-bar
       ul
+        li
+          span
+            b Resume site
+          b.time1 August 2022 - October 2022
+          v-spacer
+          span Resume website based with descriptive links
+          v-spacer
+          a(href="https://github.com/vdc109/resume-page" target="_blank") Github link
         li
           span
             b Assistive stick for the blind
@@ -108,12 +120,13 @@
           v-spacer
           span Ultrasonic sensor stick warning dangerous obstacles for the blind
           v-spacer
-          span Github link:
-          a(href="https://github.com/vdc109/Assistive-stick-for-the-blind" target="_blank") https://github.com/vdc109/Assistive-stick-for-the-blind
+          a(href="https://github.com/vdc109/Assistive-stick-for-the-blind" target="_blank") Github link
+
 
       h3.head4 EXTRACURRICULARS AND SOCIAL ACTIVITIES
       hr.sep-bar
       ul
+
         li
           a(href="https://drive.google.com/drive/folders/1a7220MDCPqHej8CFgYG1JxOTSmsgcc-O?usp=sharing" target="_blank")
             b Project Compyter
@@ -129,7 +142,7 @@
         li
           a(href="https://drive.google.com/drive/folders/1EoKiGYYm77atDrk78ZFO23vg_2cbWdYc?usp=sharing" target="_blank")
             b Helping the blinds in Nam Dinh
-            b.time1 September 2021
+          b.time1 September 2021
           v-spacer
           span Create supporting devices by 3D printing and Arduino coding for blind people at Nam Dinh Center for the Blind and donate 20 million VND to the people and education funds of blind people
         li
@@ -157,14 +170,7 @@
           v-spacer
           span Develop frontend and backend for an English books shopping website
           v-spacer
-          span Website link:
-          a(href="https://tranlebookstore.com/" target="_blank") https://tranlebookstore.com/
-        li
-          a(href="https://drive.google.com/drive/folders/1MrNQ4lD80jJbxGmMm2NPX8LUxPN93N8M?usp=sharing" target="_blank")
-            b Wrote answer keys for A Closer Look - Ohio grade 1-6
-          b.time1 December 2017 - February 2018
-          v-spacer
-          span Wrote an answer key book to help financially students who wish to self-study science (from $200 publisher's price to $6)
+          a(href="https://tranlebookstore.com/" target="_blank") Website link
         li
           span
             b Member of GART - Hanoi Amsterdam Robotic Club
@@ -177,6 +183,13 @@
             b.time1 August 2018
           v-spacer
           span Help organize STEM summer camp in science experiments for 150 primary school students in Hanoi
+        li
+          a(href="https://drive.google.com/drive/folders/1MrNQ4lD80jJbxGmMm2NPX8LUxPN93N8M?usp=sharing" target="_blank")
+            b Wrote answer keys for A Closer Look - Ohio grade 1-6
+          b.time1 December 2017 - February 2018
+          v-spacer
+          span Wrote an answer key book to help financially students who wish to self-study science (from $200 publisher's price to $6)
+
 
       h3.head2 LEADERSHIP
       hr.sep-bar
@@ -193,8 +206,7 @@
           v-spacer
           span Sharing online resources, learning tips and methods in STEM and Facebook groups of parents of younger students
           v-spacer
-          span Group link:
-          a(href="https://www.facebook.com/groups/3765086493543619" target="_blank") https://www.facebook.com/groups/3765086493543619
+          a(href="https://www.facebook.com/groups/3765086493543619" target="_blank") Group link
         li
           span
             b Admin group English Book Corner
@@ -202,8 +214,7 @@
           v-spacer
           span Sharing online resources, learning tips and review and recommending books for younger students
           v-spacer
-          span Group link:
-          a(href="https://www.facebook.com/groups/169378198219139" target="_blank") https://www.facebook.com/groups/169378198219139
+          a(href="https://www.facebook.com/groups/169378198219139" target="_blank") Group link
 
       h3.head2 INTERNSHIP AND WORKING EXPERIENCE
       hr.sep-bar
