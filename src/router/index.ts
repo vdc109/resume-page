@@ -4,18 +4,27 @@ import {HOME} from '@/router/url'
 
 Vue.use(VueRouter)
 
-const routes: Array<RouteConfig> = [
-  {
-    path: HOME.path,
-    name: HOME.name,
-    component: (): any => import('../pages/Home/index.vue')
-  }
-]
+const DEFAULT_TITLE = 'Resume - Vinh Do';
 
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
-  routes
-})
+  routes: [
+      {
+        path: HOME.path,
+        name: HOME.name,
+        meta: {
+            title: DEFAULT_TITLE
+        },
+        component: (): any => import('../pages/Home/index.vue')
+      }
+  ]
+});
+
+router.afterEach((to, from) => {
+    Vue.nextTick(() => {
+        document.title = DEFAULT_TITLE;
+    });
+});
 
 export default router
