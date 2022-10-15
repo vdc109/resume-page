@@ -6,13 +6,15 @@
       h1.header VINH DO
       v-spacer
     .content
+      span For website version of resume: 
+      a(href="https://resume-page-site.netlify.app/", target="_blank") click here
       h3 CONTACT
       hr.sep-bar
       span Email: vinhdc109@gmail.com
       v-spacer
       span Phone: (+84)855595596
       v-spacer
-      span Facebook:
+      span Facebook: 
         a(href="https://www.facebook.com/vinhdc109" target="_blank") https://www.facebook.com/vinhdc109
       h3.head2 EDUCATION
       hr.sep-bar
@@ -237,6 +239,12 @@
           b.time1 March 2021 - February 2022
           v-spacer
           span Assisted teachers in preparing teaching materials for 2 classes of 25 students and marked students' homework and tests
+        li
+          span
+            b Tran Le Bookstore
+          b.time1 June 2019 - Now
+          v-spacer
+          span Helped create website for the bookstore and manage work related to and review English books (orders, questions, complaints, ...) 
 
 
       .footer
