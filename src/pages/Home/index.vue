@@ -205,7 +205,7 @@
             span )
           b.time1 June 2021 - Now
           v-spacer
-          span Sharing online resources, learning tips and methods in STEM and Facebook groups of parents of younger students
+          span Sharing online resources, learning tips and methods in STEM and Facebook groups of parents of students 6 to 13
           v-spacer
         li
           span
@@ -215,7 +215,7 @@
             span )
           b.time1 April 2021 - Now
           v-spacer
-          span Sharing online resources, learning tips and review and recommending books for younger students
+          span Sharing online resources, learning tips and review and recommending books for students 6 to 13
 </template>
 
 <script lang="ts">
