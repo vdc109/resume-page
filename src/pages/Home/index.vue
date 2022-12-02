@@ -83,12 +83,15 @@
         li
           span
             b Resume site   
-            span (Project link: 
-            a(href="https://github.com/vdc109/resume-page" target="_blank") https://github.com/vdc109/resume-page
-            span )
+            span (Link: 
+            a(href="https://resume-page-site.netlify.app" target="_blank") https://resume-page-site.netlify.app
+            span )  
           b.time1 Aug 2022 - Oct 2022
           v-spacer
           span Resume website based with descriptive links
+          span (Project link: 
+          a(href="https://github.com/vdc109/resume-page" target="_blank") https://github.com/vdc109/resume-page
+          span )
           v-spacer
           
         li
