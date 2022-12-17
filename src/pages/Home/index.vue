@@ -112,7 +112,7 @@
             span )
           b.time1 2021 - 2022
           v-spacer
-          span Contribute to development of frontend and backend for an English books shopping website
+          span Contribute to the development of frontend and backend for an English books shopping website
           v-spacer
       
       h3.head2 INTERNSHIP AND WORKING EXPERIENCE
@@ -129,7 +129,7 @@
             b Hanoi University of Science and Technology Lab
           b.time1 Apr 2022 - Jun 2022
           v-spacer
-          span Developing call bots by creating workflow and connecting to AI call center for companies and industries
+          span Developing call bots by creating workflow and connecting to the AI call center for companies and industries
         li
           span
             b International MedTech software company ISOFH
@@ -148,7 +148,7 @@
             span )
           b.time1 Jun 2021 - Now
           v-spacer
-          span Sharing online resources, learning tips and methods in STEM and Facebook groups of parents of students 6 to 13
+          span Sharing online resources, learning tips, and methods in STEM and Facebook groups of parents of students 6 to 13
           v-spacer
         li
           span
@@ -158,12 +158,12 @@
             span )
           b.time1 Apr 2021 - Now
           v-spacer
-          span Sharing online resources, learning tips and review and recommending books for students 6 to 13
+          span Sharing online resources, learning tips, and review and recommending books for students 6 to 13
         li
           span
             b Co-founder and leader of Edutech club
             b.time1 Nov 2021 - Now
-          v-spacer Organize STEM classes, events and activities to raise funds to help unfortunate people in less developed provinces
+          v-spacer Organize STEM classes, events, and activities to raise funds to help unfortunate people in less developed provinces
           
       h3.head4 EXTRACURRICULARS AND SOCIAL ACTIVITIES
       hr.sep-bar
@@ -173,17 +173,17 @@
           b.time1 2020 - Now
           ul
             li
-              span Teaching online Python course for 41 secondary school students to raise funds in 
+              span Teaching online Python courses for secondary school students to raise funds in 
               a(href="https://drive.google.com/drive/folders/1a7220MDCPqHej8CFgYG1JxOTSmsgcc-O?usp=sharing" target="_blank") Project Compyter.
             li
-              span Teach Arduino coding for gifted students to make air monitoring device in 
+              span Teach Arduino coding for gifted students to make air monitoring devices in
               a(href="https://drive.google.com/drive/folders/1wQZv4ttIhoR1AcL5BdAscElR-NmunkEn?usp=sharing" target="_blank") Tuyen Quang.
         li
           b Volunteering and charity activities
           b.time1 2021 - Now
           ul
             li
-              span Raised and donated 100 million VND, 11 computers, books, bags and clothes to poor students in 
+              span Raised and donated 100 million VND, 11 computers, books, bags, and clothes to poor students in 
               a(href="https://drive.google.com/drive/folders/1hWmt59-pAiEaP9WvgZRrqbFo3GNhCD_N?usp=sharing" target="_blank") Ha Giang.
             li
               span Create supporting devices and donate 20 million VND for blind people at the Blind Center in     
@@ -196,7 +196,7 @@
           span
             b GART 6520 - Hanoi Amsterdam Robotic Club & HFC - Hanoi Amsterdam Football Club. 
           v-spacer
-          span Help teach primary school students technology and organize STEM related events at schools or the US embassy. Help organize school soccer cup and participating in the cup itself
+          span Help teach primary school students technology and organize STEM-related events at schools or the US embassy. Help organize the school soccer cup and participate in the cup itself
         li
           b Publication:
           b.time1 2017 - 2018
