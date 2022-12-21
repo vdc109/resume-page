@@ -56,7 +56,9 @@
           b International:
         ul
           li
-            span Global Link Online Innovation Expo 2022, Japan - 1st Place
+            span South East Asia Math Olympiad 2022 - Silver Medal (SEAMO) (Competition info: 
+            a(href="https://seamo-official.org/page/guidelines" target="_blank") https://seamo-official.org/page/guidelines
+            span )
           li
             span 7th International Mathematical Modelling Challenge 2021 (IMMC) (Competition info: 
             a(href="https://www.immchallenge.org/Index.html" target="_blank") https://www.immchallenge.org/Index.html
@@ -203,7 +205,7 @@
           a(href="https://drive.google.com/drive/folders/1MrNQ4lD80jJbxGmMm2NPX8LUxPN93N8M?usp=sharing" target="_blank")
             b Answer key booklet for A Closer Look - Tennessee grade 1-6
           v-spacer
-          span Wrote an answer key book to help students who wish to self-study science
+          span Wrote an answer key book to help around 200 students/year who wish to self-study science
         
 </template>
 
