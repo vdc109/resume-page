@@ -35,7 +35,7 @@
             .ap
               span AP Calculus BC: 5 (Subscore Calculus AB: 5)
               span AP Computer Science A: 5
-              span AP Statistics: 5
+              span AP Statistics: 4
 
       h3.head2 HONORS AND MERITS
       hr.sep-bar
