@@ -15,12 +15,14 @@
       span Hanoi Amsterdam Highschool for the gifted - Mathematics Honor Class
       span.duration 2020-2023
       v-spacer
-      span 
+      span.GPA 
         b GPA: 
-        span 9.4
+        span Grade 9: 8.8 
+        span Grade 10: 8.7 
+        span Grade 11: 9.4 
+        span Grade 12: 9.4 (Mid-year)
       v-spacer
-      a(href="https://drive.google.com/drive/folders/15h4-zQHYPwjYumk2LKY9i530U1EQ1R6B?usp=sharing" target="_blank")
-        b Standardized test scores:
+      b Standardized test scores:
       .standardized
         span IELTS: 8.0
         span SAT: 1520 (Mathematics: 800 | Critical Reading & Writing: 720)
@@ -28,14 +30,12 @@
       span
         b Extracurricular coursework:
         ul
-          li
-            a(href="https://drive.google.com/file/d/1KHf9LxMEqrZvHJOPmWOQONsO7MzvS4rr/view?usp=sharing" target="_blank") Completed all of Harvard's CS50 2022 problemsets, labs, and final project
-          li
-            a(href="https://drive.google.com/drive/folders/175QrTSLQ0IfQVMFAnXItQvPX8pZ_IC4f?usp=sharing" target="_blank") Advanced placement:
+          li Completed all of Harvard's CS50 2022 problemsets, labs, and final project
+          li Advanced placement:
             .ap
-              span AP Calculus BC: 4 (Subscore Calculus AB: 5)
-              span AP Computer Science A: 4
-              span AP Statistics: 4
+              span AP Calculus BC: 5 (Subscore Calculus AB: 5)
+              span AP Computer Science A: 5
+              span AP Statistics: 5
 
       h3.head2 HONORS AND MERITS
       hr.sep-bar
@@ -47,26 +47,18 @@
         li
           span Hanoi Informatics Municipal Academic Competition 2021 - 3rd Prize
         li
-          span Vietnam Mathematical Young Talent Search 2018 - Gold Medal (Competition info: 
-          a(href="https://www.hexagon.edu.vn/myts.html" target="_blank") https://www.hexagon.edu.vn/myts.html
-          span )
+          span Vietnam Mathematical Young Talent Search 2018 - Gold Medal
 
       .international
         span
           b International:
         ul
           li
-            span South East Asia Math Olympiad 2022 - Silver Medal (SEAMO) (Competition info: 
-            a(href="https://seamo-official.org/page/guidelines" target="_blank") https://seamo-official.org/page/guidelines
-            span )
+            span South East Asia Math Olympiad 2022 - Silver Medal (SEAMO)
           li
-            span 7th International Mathematical Modelling Challenge 2021 (IMMC) (Competition info: 
-            a(href="https://www.immchallenge.org/Index.html" target="_blank") https://www.immchallenge.org/Index.html
-            span )
+            span 7th International Mathematical Modelling Challenge 2021 (IMMC)
           li
-            span 14th International Mathematics and Science Olympiad 2017 (IMSO) - Silver Medal (Competition info: 
-            a(href="https://www.sofuganda.org/imso" target="_blank") https://www.sofuganda.org/imso
-            span )
+            span 14th International Mathematics and Science Olympiad 2017 (IMSO) - Silver Medal
 
       h3.head3 RESEARCH & PERSONAL PROJECTS
       hr.sep-bar
@@ -77,8 +69,7 @@
           v-spacer
           span Project: "Fabrication of Vanadium-doped TiO2 for Polluted Wastewater Treatment"
         li
-          a(href="https://drive.google.com/drive/folders/1EH29X2PUFuqMjcTEG3_uglgZLeQQ8UIn?usp=sharing" target="_blank")
-            b INNOVERSE Innovation & Invention Expo 2022, USA - Gold Medal
+          b INNOVERSE Innovation & Invention Expo 2022, USA - Gold Medal
           b.time1 Jul 2022
           v-spacer
           span Project: "Making Use of Speed Braker to Generate Electricity"
@@ -90,10 +81,7 @@
             span )  
           b.time1 Aug 2022 - Oct 2022
           v-spacer
-          span Resume website based with descriptive links
-          span (Project link: 
-          a(href="https://github.com/vdc109/resume-page" target="_blank") https://github.com/vdc109/resume-page
-          span )
+          span Resume website based with descriptive links 
           v-spacer
           
         li
@@ -105,16 +93,6 @@
           b.time1 Jun 2022
           v-spacer
           span Ultrasonic sensor stick warning dangerous obstacles for the blind
-          v-spacer
-        li
-          span
-            b E-commerce website for Tran Le Bookstore 
-            span (Link: 
-            a(href="https://tranlebookstore.com/" target="_blank") https://tranlebookstore.com/
-            span )
-          b.time1 2021 - 2022
-          v-spacer
-          span Contribute to the development of frontend and backend for an English books shopping website
           v-spacer
       
       h3.head2 INTERNSHIP AND WORKING EXPERIENCE
@@ -131,7 +109,7 @@
             b Hanoi University of Science and Technology Lab
           b.time1 Apr 2022 - Jun 2022
           v-spacer
-          span Developing call bots by creating workflow and connecting to the AI call center for companies and industries
+          span Developing call bots according to companies' and industries' orders
         li
           span
             b International MedTech software company ISOFH
@@ -145,9 +123,6 @@
         li
           span
             b Admin group Facebook SuTi cùng con hoc Toán 
-            span (FB group: 
-            a(href="https://www.facebook.com/groups/3765086493543619" target="_blank") link
-            span )
           b.time1 Jun 2021 - Now
           v-spacer
           span Sharing online resources, learning tips, and methods in STEM and Facebook groups of parents of students 6 to 13
@@ -155,9 +130,6 @@
         li
           span
             b Admin group English Book Corner 
-            span (FB group: 
-              a(href="https://www.facebook.com/groups/169378198219139" target="_blank") link
-            span )
           b.time1 Apr 2021 - Now
           v-spacer
           span Sharing online resources, learning tips, and review and recommending books for students 6 to 13
@@ -175,30 +147,26 @@
           b.time1 2020 - Now
           ul
             li
-              span Teaching online Python courses for secondary school students to raise funds in 
-              a(href="https://drive.google.com/drive/folders/1a7220MDCPqHej8CFgYG1JxOTSmsgcc-O?usp=sharing" target="_blank") Project Compyter.
+              span Teaching online Python courses for secondary school students to raise funds in Project Compyter.
             li
-              span Teach Arduino coding for gifted students to make air monitoring devices in
-              a(href="https://drive.google.com/drive/folders/1wQZv4ttIhoR1AcL5BdAscElR-NmunkEn?usp=sharing" target="_blank") Tuyen Quang.
+              span Teach Arduino coding for gifted students to make air monitoring devices in Tuyen Quang.
         li
           b Volunteering and charity activities
           b.time1 2021 - Now
           ul
             li
-              span Raised and donated 100 million VND, 11 computers, books, bags, and clothes to poor students in 
-              a(href="https://drive.google.com/drive/folders/1hWmt59-pAiEaP9WvgZRrqbFo3GNhCD_N?usp=sharing" target="_blank") Ha Giang.
+              span Raised and donated 100 million VND, 11 computers, books, bags, and clothes to poor students in Ha Giang.
             li
-              span Create supporting devices and donate 20 million VND for blind people at the Blind Center in     
-              a(href="https://drive.google.com/drive/folders/1EoKiGYYm77atDrk78ZFO23vg_2cbWdYc?usp=sharing" target="_blank") Nam Dinh.
+              span Create supporting devices and donate 20 million VND for blind people at the Blind Center in Nam Dinh.
           v-spacer
           
         li
           b Club: 
           b.time1 2020 - Now
           span
-            b GART 6520 - Hanoi Amsterdam Robotic Club & HFC - Hanoi Amsterdam Football Club. 
+            b GART 6520 - Hanoi Amsterdam Robotic Club
           v-spacer
-          span Help teach primary school students technology and organize STEM-related events at schools or the US embassy. Help organize the school soccer cup and participate in the cup itself
+          span Help organize STEM-related events at the US embassy
         li
           b Publication:
           b.time1 2017 - 2018
