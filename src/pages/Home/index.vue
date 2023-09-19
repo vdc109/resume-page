@@ -7,81 +7,48 @@
       v-spacer
     .contact
       v-spacer
-      span Email: vinhdc109@gmail.com | Phone: (+84)855595596
+      span Email: vinhdocong109@gmail.com | Phone: (448)8676272
       v-spacer
     .content
+      h3.head2 PROFILE
+      hr.sep-bar
+      span Github: 
+        a(href="https://github.com/vdc109" target="_blank") https://github.com/vdc109
+      v-spacer 
+      span LinkedIn: 
+        a(href = 'https://www.linkedin.com/in/vinh-do-84a117241/') https://www.linkedin.com/in/vinh-do-84a117241/
       h3.head2 EDUCATION
       hr.sep-bar
-      span Hanoi Amsterdam Highschool for the gifted - Mathematics Honor Class
-      span.duration 2020-2023
-      v-spacer
-      span.GPA 
-        b GPA: 
-        span Grade 9: 8.8 
-        span Grade 10: 8.7 
-        span Grade 11: 9.4 
-        span Grade 12: 9.4 (Mid-year)
-      v-spacer
-      b Standardized test scores:
-      .standardized
-        span IELTS: 8.0
-        span SAT: 1520 (Mathematics: 800 | Critical Reading & Writing: 720)
-      v-spacer
       span
-        b Extracurricular coursework:
-        ul
-          li Completed all of Harvard's CS50 2022 problemsets, labs, and final project
-          li Advanced placement:
-            .ap
-              span AP Calculus BC: 5 (Subscore Calculus AB: 5)
-              span AP Computer Science A: 5
-              span AP Statistics: 4
-
-      h3.head2 HONORS AND MERITS
-      hr.sep-bar
-      span
-        b Domestic & Regional:
-      ul
-        li
-          span Hanoi Mathematics Municipal Academic Competition 2020 - 2nd Prize
-        li
-          span Hanoi Informatics Municipal Academic Competition 2021 - 3rd Prize
-        li
-          span Vietnam Mathematical Young Talent Search 2018 - Gold Medal
+        b Florida State University
+        b.duration Expected May 2027
+      v-spacer
+      span Bachelor of Science, Computer Science
 
       .international
+        v-spacer
         span
-          b International:
-        ul
-          li
-            span South East Asia Math Olympiad 2022 - Silver Medal (SEAMO)
-          li
-            span 7th International Mathematical Modelling Challenge 2021 (IMMC)
-          li
-            span 14th International Mathematics and Science Olympiad 2017 (IMSO) - Silver Medal
+          b Hanoi Amsterdam Highschool for the gifted - Mathematics Honor Class (2020-2023)
+        span.duration 
+          b May 2023
+        v-spacer 
+        span High School Diploma, Overall GPA: 9.3/10
+      
+      v-spacer
 
-      h3.head3 RESEARCH & PERSONAL PROJECTS
+      h3.head3 PERSONAL PROJECTS
       hr.sep-bar
       ul
-        li
-          b E-NNOVATE International Innovation Show 2022 - Gold Medal
-          b.time1 Aug 2022
-          v-spacer
-          span Project: "Fabrication of Vanadium-doped TiO2 for Polluted Wastewater Treatment"
-        li
-          b INNOVERSE Innovation & Invention Expo 2022, USA - Gold Medal
-          b.time1 Jul 2022
-          v-spacer
-          span Project: "Making Use of Speed Braker to Generate Electricity"
         li
           span
             b Resume site   
             span (Link: 
-            a(href="https://resume-page-site.netlify.app" target="_blank") https://resume-page-site.netlify.app
+              a(href="https://github.com/vdc109/resume-page") https://github.com/vdc109/resume-page
             span )  
           b.time1 Aug 2022 - Oct 2022
           v-spacer
           span Resume website based with descriptive links 
+            a(href="https://resume-page-site.netlify.app" target="_blank") https://resume-page-site.netlify.app
           v-spacer
           
         li
@@ -94,22 +61,27 @@
           v-spacer
           span Ultrasonic sensor stick warning dangerous obstacles for the blind
           v-spacer
-      
-      h3.head2 INTERNSHIP AND WORKING EXPERIENCE
-      hr.sep-bar
-      ul
+        
         li
           span
-            b Tran Le Bookstore
-          b.time1 Jun 2019 - Now
+            b Hurricane ML 
+            span (Project link:
+              a(href="https://github.com/vdc109/HurricaneML") https://github.com/vdc109/HurricaneML
+            span )
+          b.time1 Sep 2023
+          v-spacer 
+          span Used EfficientNetB7 CNN model to predict flood damage from satellite image, presented on product using ReactJS, Typescript, and Flask
           v-spacer
-          span Content writer for the bookstore FB page with 11000 members and manage work related to marketing and reviewing English books 
+      
+      h3.head2 RELEVENT EXPERIENCE
+      hr.sep-bar
+      ul
         li
           span
             b Hanoi University of Science and Technology Lab
           b.time1 Apr 2022 - Jun 2022
           v-spacer
-          span Developing call bots according to companies' and industries' orders
+          span Developing call bots based on diagram flow of deep learning model 
         li
           span
             b International MedTech software company ISOFH
@@ -122,59 +94,46 @@
       ul
         li
           span
-            b Admin group Facebook SuTi cùng con hoc Toán 
-          b.time1 Jun 2021 - Now
-          v-spacer
-          span Sharing online resources, learning tips, and methods in STEM and Facebook groups of parents of students 6 to 13
-          v-spacer
-        li
-          span
-            b Admin group English Book Corner 
-          b.time1 Apr 2021 - Now
-          v-spacer
-          span Sharing online resources, learning tips, and review and recommending books for students 6 to 13
-        li
-          span
             b Co-founder and leader of Edutech club
             b.time1 Nov 2021 - Now
-          v-spacer Organize STEM classes, events, and activities to raise funds to help unfortunate people in less developed provinces
+          v-spacer Organize STEM classes, events, and activities to raise funds to help unfortunate people in less developed provinces of Vietnam
           
-      h3.head4 EXTRACURRICULARS AND SOCIAL ACTIVITIES
+      h3.head4 Courses 
       hr.sep-bar
       ul
         li
-          b Teaching and teaching assistant in STEM subjects for centers and projects
-          b.time1 2020 - Now
-          ul
-            li
-              span Teaching online Python courses for secondary school students to raise funds in Project Compyter.
-            li
-              span Teach Arduino coding for gifted students to make air monitoring devices in Tuyen Quang.
+          b Harvard's CS50
+          b.time1 May - June 2022
+          v-spacer
+          span Harvard University Introduction to Computer Science on EdX
+          v-spacer
         li
-          b Volunteering and charity activities
-          b.time1 2021 - Now
-          ul
-            li
-              span Raised and donated 100 million VND, 11 computers, books, bags, and clothes to poor students in Ha Giang.
-            li
-              span Create supporting devices and donate 20 million VND for blind people at the Blind Center in Nam Dinh.
+          b Harvard's CS50: Python programming
+          b.time1 June - July 2023
+          v-spacer
+          span Harvard University Python Programming on EdX
           v-spacer
           
         li
-          b Club: 
-          b.time1 2020 - Now
-          span
-            b GART 6520 - Hanoi Amsterdam Robotic Club
+          b Algorithm, Part I
+          b.time1 June - July 2023
           v-spacer
-          span Help organize STEM-related events at the US embassy
-        li
-          b Publication:
-          b.time1 2017 - 2018
-          a(href="https://drive.google.com/drive/folders/1MrNQ4lD80jJbxGmMm2NPX8LUxPN93N8M?usp=sharing" target="_blank")
-            b Answer key booklet for A Closer Look - Tennessee grade 1-6
+          span Princeton University Data Structure & Algorithms on Coursera
           v-spacer
-          span Wrote an answer key book to help around 200 students/year who wish to self-study science
-        
+      
+      h3.head4 SPECIALIZED SKILLS
+      hr.sep-bar
+      span 
+        b Programming Languages: 
+      span C++, Java, UNIX, Pascal, Python, HTML, CSS, Javascript, Typescript, Vue, Sass
+      v-spacer
+      span
+        b Frameworks: 
+      span Git, ReactJS, Vue
+      v-spacer 
+      span
+        b Programs: 
+      span Microsoft Office Word, Excel, Powerpoint, Access
 </template>
 
 <script lang="ts">
@@ -187,7 +146,7 @@ export default Home;
 
 <style lang="sass">
 .header
-  font-size: 30px
+  font-size: 24px
   font-family: Georgia, Serif
   margin: 10px
 
@@ -205,7 +164,7 @@ export default Home;
   justify-content: center
   
 .content
-  font-size: 15px
+  font-size: 12px
   margin: 0 auto
   max-width: 95%
   font-family: Georgia, Serif
@@ -213,7 +172,7 @@ export default Home;
 .paper
   height: 100%
   margin: 0px auto
-  max-width: 90%
+  max-width: 65%
   background-color: #fff
 
 .root
