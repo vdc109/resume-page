@@ -7,7 +7,7 @@
       v-spacer
     .contact
       v-spacer
-      span Email: vinhdocong109@gmail.com | Phone: (448)8676272
+      span Email: vinhdocong109@gmail.com | Phone: (448)-867-6272
       v-spacer
     .content
       h3.head2 PROFILE
@@ -23,7 +23,7 @@
         b Florida State University
         b.duration Expected May 2027
       v-spacer
-      span Bachelor of Science, Computer Science
+      span Bachelor of Science, Computer Science & Applied Mathematics
 
       .international
         v-spacer
@@ -32,7 +32,8 @@
         span.duration 
           b May 2023
         v-spacer 
-        span High School Diploma, Overall GPA: 9.3/10
+        span High School Diploma
+        span.time1 Overall GPA: 9.3/10
       
       v-spacer
 
@@ -70,7 +71,7 @@
             span )
           b.time1 Sep 2023
           v-spacer 
-          span Used EfficientNetB7 CNN model to predict flood damage from satellite image, presented on product using ReactJS, Typescript, and Flask
+          span Used EfficientNetB7 CNN model to predict flood damage from satellite image, presented on product using ReactJS, Typescript, and Flask API
           v-spacer
       
       h3.head2 RELEVENT EXPERIENCE
@@ -78,14 +79,23 @@
       ul
         li
           span
-            b Hanoi University of Science and Technology Lab
+            b Hanoi University of Science and Technology | 
+          span Hanoi, Vietnam
+          v-spacer 
+          span 
+            i Intern Developer
           b.time1 Apr 2022 - Jun 2022
           v-spacer
+          span
           span Developing call bots based on diagram flow of deep learning model 
         li
           span
-            b International MedTech software company ISOFH
-          b.time1 Jul 2022 - Aug 2022
+            b ISOFH |
+          span Hanoi, Vietnam
+          v-spacer
+          span
+            i Front-end Software Developer Intern
+          b.time1 May 2023 - Jul 2023
           v-spacer
           span Fixing bugs and developing the web frontend hosting the company's Blockchain project IVIRSE
       
@@ -95,45 +105,41 @@
         li
           span
             b Co-founder and leader of Edutech club
-            b.time1 Nov 2021 - Now
+            b.time1 Nov 2020 - Now
           v-spacer Organize STEM classes, events, and activities to raise funds to help unfortunate people in less developed provinces of Vietnam
           
-      h3.head4 Courses 
+      h3.head4 EXTRACURRICULAR COURSES
       hr.sep-bar
       ul
         li
           b Harvard's CS50
-          b.time1 May - June 2022
+          b.time1 May - June 2021
           v-spacer
           span Harvard University Introduction to Computer Science on EdX
           v-spacer
         li
           b Harvard's CS50: Python programming
-          b.time1 June - July 2023
+          b.time1 June - July 2022
           v-spacer
           span Harvard University Python Programming on EdX
           v-spacer
           
         li
           b Algorithm, Part I
-          b.time1 June - July 2023
+          b.time1 June - July 2022
           v-spacer
           span Princeton University Data Structure & Algorithms on Coursera
           v-spacer
       
-      h3.head4 SPECIALIZED SKILLS
+      h3.head4 SKILLS
       hr.sep-bar
       span 
         b Programming Languages: 
       span C++, Java, UNIX, Pascal, Python, HTML, CSS, Javascript, Typescript, Vue, Sass
       v-spacer
       span
-        b Frameworks: 
-      span Git, ReactJS, Vue
-      v-spacer 
-      span
-        b Programs: 
-      span Microsoft Office Word, Excel, Powerpoint, Access
+        b Tools, Frameworks: 
+      span Git, ReactJS, VueTS, Flask API
 </template>
 
 <script lang="ts">
