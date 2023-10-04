@@ -66,12 +66,23 @@
         li
           span
             b Hurricane ML 
-            span (Project link:
+            span (Project link: 
               a(href="https://github.com/vdc109/HurricaneML") https://github.com/vdc109/HurricaneML
             span )
           b.time1 Sep 2023
           v-spacer 
           span Used EfficientNetB7 CNN model to predict flood damage from satellite image, presented on product using ReactJS, Typescript, and Flask API
+          v-spacer
+
+        li
+          span
+            b Fullstack realtime messaging application 
+            span (Project link: 
+              a(href="https://github.com/vdc109/MessageApp") https://github.com/vdc109/MessageApp
+            span )
+          b.time1 Oct 2023
+          v-spacer 
+          span Used Angular frontend, Java Spring Boot backend, MongoDB database server, deployed on AWS
           v-spacer
       
       h3.head2 RELEVENT EXPERIENCE
@@ -90,7 +101,7 @@
           span Developing call bots based on diagram flow of deep learning model 
         li
           span
-            b ISOFH |
+            b ISOFH | 
           span Hanoi, Vietnam
           v-spacer
           span
@@ -98,15 +109,6 @@
           b.time1 May 2023 - Jul 2023
           v-spacer
           span Fixing bugs and developing the web frontend hosting the company's Blockchain project IVIRSE
-      
-      h3.head2 LEADERSHIP
-      hr.sep-bar
-      ul
-        li
-          span
-            b Co-founder and leader of Edutech club
-            b.time1 Nov 2020 - Now
-          v-spacer Organize STEM classes, events, and activities to raise funds to help unfortunate people in less developed provinces of Vietnam
           
       h3.head4 EXTRACURRICULAR COURSES
       hr.sep-bar
@@ -139,7 +141,7 @@
       v-spacer
       span
         b Tools, Frameworks: 
-      span Git, ReactJS, VueTS, Flask API
+      span Git, React, Vue, Flask API, Spring Boot, Angular, AWS, MongoDB
 </template>
 
 <script lang="ts">
